@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormDesigner", "FormDesigner\FormDesigner.csproj", "{49BA4513-8612-4400-A9E0-ECBB8B7E0531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Debug|Itanium.ActiveCfg = Debug|Any CPU
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Debug|Itanium.Build.0 = Debug|Any CPU
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Debug|x86.ActiveCfg = Debug|x86
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Debug|x86.Build.0 = Debug|x86
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Release|Itanium.ActiveCfg = Release|x86
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Release|x86.ActiveCfg = Release|x86
+		{49BA4513-8612-4400-A9E0-ECBB8B7E0531}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
